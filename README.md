@@ -4,13 +4,8 @@
 - 🌱 I’m currently learning React Native and SwiftUI.
 
 ### 📊 Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccronheimer&langs_count=10&layout=compact&bg_color=161b22&hide_border=true&text_color=878787)](https://github.com/ccronheimer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccronheimer&langs_count=10&layout=compact&hide_border=true)](https://github.com/ccronheimer/github-readme-stats)
 
-<a href="https://github.com/ccronheimer/github-stats-transparent">
-
-![](https://raw.githubusercontent.com/ccronheimer/github-stats-transparent/output/generated/languages.svg)
-
-</a>
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
