@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a AR push up app with Swift.
+- 🔭 I’m currently working on a AR app with Swift.
 - 🌱 I’m currently learning React Native and SwiftUI.
 
 ### 📊 Stats:
