@@ -1,3 +1,3 @@
-Hey I'm Cameron 
 
-### 🌎 https://cameroncronheimer.com
+
+# 🌎 https://cameroncronheimer.com
